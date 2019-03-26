@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'MaryBanCategoryKit_Example' do
+  pod 'MaryBanCategoryKit', :path => '../'
+
+  target 'MaryBanCategoryKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
