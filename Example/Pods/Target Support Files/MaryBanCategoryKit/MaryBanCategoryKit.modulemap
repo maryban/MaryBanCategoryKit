@@ -1,0 +1,6 @@
+framework module MaryBanCategoryKit {
+  umbrella header "MaryBanCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

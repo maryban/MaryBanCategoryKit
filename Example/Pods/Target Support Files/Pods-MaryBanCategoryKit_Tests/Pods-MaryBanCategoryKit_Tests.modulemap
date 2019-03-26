@@ -1,0 +1,6 @@
+framework module Pods_MaryBanCategoryKit_Tests {
+  umbrella header "Pods-MaryBanCategoryKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
