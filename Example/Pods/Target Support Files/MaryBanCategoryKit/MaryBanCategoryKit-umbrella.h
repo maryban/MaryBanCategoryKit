@@ -10,6 +10,11 @@
 #endif
 #endif
 
+#import "NSArray+Log.h"
+#import "UIButton+Extension.h"
+#import "UIColor+Hex.h"
+#import "UILabel+Extension.h"
+#import "UIView+FFFrame.h"
 
 FOUNDATION_EXPORT double MaryBanCategoryKitVersionNumber;
 FOUNDATION_EXPORT const unsigned char MaryBanCategoryKitVersionString[];

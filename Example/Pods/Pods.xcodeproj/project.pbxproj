@@ -7,16 +7,26 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0689D1D01AC641E6CF53D7B800CEDF14 /* UIButton+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 7560AE4F5CAFA818AB831F822122CCDB /* UIButton+Extension.m */; };
+		082D0AD88EA940B7486DAFF9F1559F9E /* NSArray+Log.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F5CC1BA1FD9E783AD0B0C04AE94F81F /* NSArray+Log.m */; };
+		1F23A9376F4A09BC2C610B34D4EE98CD /* NSArray+Log.h in Headers */ = {isa = PBXBuildFile; fileRef = F995388942111ADD6C691AA1B82F3ACB /* NSArray+Log.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		31D5D50C2E4F0BE92CFC113175975FAD /* Pods-MaryBanCategoryKit_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = FA78252B0A58411240D53E4BCD7CD83C /* Pods-MaryBanCategoryKit_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		329CB8FB4A4740FE8B2914DA44D0E71F /* Pods-MaryBanCategoryKit_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = C006AD48A0AC8DA9FEAB2AE922C7F588 /* Pods-MaryBanCategoryKit_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		37AB24A363672F4D898116D4EDDD6BA5 /* UILabel+Extension.h in Headers */ = {isa = PBXBuildFile; fileRef = 128AECDDCFE5E5CF18977853088A72A1 /* UILabel+Extension.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3D9AB1B78F9A3C2C56B4F31B6BDE3F4A /* UILabel+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = B04C64DDE0CF81640DD7897D72672044 /* UILabel+Extension.m */; };
+		5A2CAD6D2E6596EF50C44CC5F5FF017A /* UIView+FFFrame.h in Headers */ = {isa = PBXBuildFile; fileRef = 965BCCBBE6885173CA2C9417DEDD699B /* UIView+FFFrame.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		610832E95CB53CEAB98336201BFF62E8 /* Pods-MaryBanCategoryKit_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B3A9AD5C939B325CF11E498C244F7A54 /* Pods-MaryBanCategoryKit_Tests-dummy.m */; };
-		6D4E291D830E8910AB4128050D69B56A /* MaryBanCategoryKit-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B928C08A8B8DDE9FF9D568C55BB3BD4 /* MaryBanCategoryKit-dummy.m */; };
+		6C6A37B7B9DEEE3357454D56DA9FDFE5 /* UIView+FFFrame.m in Sources */ = {isa = PBXBuildFile; fileRef = 53FFC65777EEE38BCE8AFBF1F7723B31 /* UIView+FFFrame.m */; };
 		7FE7CAA8BE3686B76B3EAD04DBC83693 /* Pods-MaryBanCategoryKit_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EAB81D0E5FBE2F33E1FD3FD12323738 /* Pods-MaryBanCategoryKit_Example-dummy.m */; };
-		805A3EBBB7BC08F56AFA93573B62FFFB /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = 65F71ECDA116CFFED5AC2704660EE7FD /* ReplaceMe.m */; };
+		8C26DC6778A5F81F9082B5AAB22E28B0 /* UIColor+Hex.m in Sources */ = {isa = PBXBuildFile; fileRef = B6E3143D646257C28089C4F570A55A71 /* UIColor+Hex.m */; };
 		A77E41C41A22C917ED392D28BC2F44F9 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB4607EFCA7C5F75397649E792E2AFCB /* Foundation.framework */; };
-		AC65CB91B1BD595D7FFBB473219B4977 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB4607EFCA7C5F75397649E792E2AFCB /* Foundation.framework */; };
 		B6124A62EA1F5DF6C92E111A36DC563D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB4607EFCA7C5F75397649E792E2AFCB /* Foundation.framework */; };
-		E001AC101C27DB17D765794ACCAF7E0B /* MaryBanCategoryKit-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A53F63BBCA93BE65ACD2AFD0E6D881FB /* MaryBanCategoryKit-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C0258E8D92F80C76DD1F061C005FDAE1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB4607EFCA7C5F75397649E792E2AFCB /* Foundation.framework */; };
+		C6AA3D0699D8717631A074F2A57E813F /* MaryBanCategoryKit-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 689579545AADDD139706245382B7BC4A /* MaryBanCategoryKit-dummy.m */; };
+		C7EE248EF93C129ECF3052D5A6B58D8C /* UIButton+Extension.h in Headers */ = {isa = PBXBuildFile; fileRef = 0CD8644C6AF072B1DB797DB9E41B8C09 /* UIButton+Extension.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D25B74B9CC3053A998DC630E091F4A68 /* UIColor+Hex.h in Headers */ = {isa = PBXBuildFile; fileRef = DE0A7C68C050161ADEA5D2626CA0A2AE /* UIColor+Hex.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E23CF738565E2E8257BC04521DF3DC49 /* MaryBanCategoryKit-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 08DFD17727D38DDCB081A4538F043D62 /* MaryBanCategoryKit-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		EEB1B11EEACE5AAE41DB57EEEA598A1D /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = 4FCA6560A97307FD0FF044059FE77893 /* ReplaceMe.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -24,7 +34,7 @@
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 1C5E4063A75B7178CEF02A0FF1E63E2E;
+			remoteGlobalIDString = 4D023A9496ECA360994FE6E5A7F209C4;
 			remoteInfo = MaryBanCategoryKit;
 		};
 		E3228FD4AE8DEC262806862C616AD8B6 /* PBXContainerItemProxy */ = {
@@ -38,40 +48,58 @@
 
 /* Begin PBXFileReference section */
 		03FE7022E79A859E25B2D3B0F2621E4D /* Pods-MaryBanCategoryKit_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MaryBanCategoryKit_Example-frameworks.sh"; sourceTree = "<group>"; };
+		08DFD17727D38DDCB081A4538F043D62 /* MaryBanCategoryKit-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MaryBanCategoryKit-umbrella.h"; sourceTree = "<group>"; };
+		0CD8644C6AF072B1DB797DB9E41B8C09 /* UIButton+Extension.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIButton+Extension.h"; sourceTree = "<group>"; };
+		128AECDDCFE5E5CF18977853088A72A1 /* UILabel+Extension.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UILabel+Extension.h"; sourceTree = "<group>"; };
 		1442FEC5B326FBD050E71A67F5247AAF /* Pods-MaryBanCategoryKit_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MaryBanCategoryKit_Example-Info.plist"; sourceTree = "<group>"; };
+		164357DBBEF80EA7EEB14776A7D93B48 /* MaryBanCategoryKit-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "MaryBanCategoryKit-Info.plist"; sourceTree = "<group>"; };
 		1C19EEA5B30CDEF1792C2234DD58DD17 /* Pods-MaryBanCategoryKit_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MaryBanCategoryKit_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		238EA0E761ADD31619BC73D28A5744F5 /* MaryBanCategoryKit-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MaryBanCategoryKit-prefix.pch"; sourceTree = "<group>"; };
 		26D4A60A90022E403298CF651CE6B029 /* Pods-MaryBanCategoryKit_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-MaryBanCategoryKit_Example.modulemap"; sourceTree = "<group>"; };
-		2763C2E54952E543AF1029450A03F42A /* Pods_MaryBanCategoryKit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MaryBanCategoryKit_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		29E22A9BB12D5401C58D32DC30BB7BF4 /* MaryBanCategoryKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MaryBanCategoryKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		2B928C08A8B8DDE9FF9D568C55BB3BD4 /* MaryBanCategoryKit-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MaryBanCategoryKit-dummy.m"; sourceTree = "<group>"; };
+		2763C2E54952E543AF1029450A03F42A /* Pods_MaryBanCategoryKit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_MaryBanCategoryKit_Tests.framework; path = "Pods-MaryBanCategoryKit_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		29E22A9BB12D5401C58D32DC30BB7BF4 /* MaryBanCategoryKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = MaryBanCategoryKit.framework; path = MaryBanCategoryKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D5F992083610C92B124F8B8C4BA26A7 /* MaryBanCategoryKit.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = MaryBanCategoryKit.modulemap; sourceTree = "<group>"; };
 		31AC0EAF008808DBC5B9A7C6A8CD1FB0 /* Pods-MaryBanCategoryKit_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MaryBanCategoryKit_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		4AC86AECD0979C67F51420483FE14573 /* MaryBanCategoryKit-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "MaryBanCategoryKit-Info.plist"; sourceTree = "<group>"; };
-		525CF5C713825D7D1F3E126E01AD8987 /* MaryBanCategoryKit.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MaryBanCategoryKit.xcconfig; sourceTree = "<group>"; };
+		45C164037D8841401267758893E50C51 /* MaryBanCategoryKit-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MaryBanCategoryKit-prefix.pch"; sourceTree = "<group>"; };
+		4FCA6560A97307FD0FF044059FE77893 /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ReplaceMe.m; path = MaryBanCategoryKit/Classes/ReplaceMe.m; sourceTree = "<group>"; };
+		53FFC65777EEE38BCE8AFBF1F7723B31 /* UIView+FFFrame.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIView+FFFrame.m"; sourceTree = "<group>"; };
 		6137BF88A585ABD8439671A54415398D /* Pods-MaryBanCategoryKit_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MaryBanCategoryKit_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		61EA1972AA91670A55B518494AE318A3 /* MaryBanCategoryKit.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = MaryBanCategoryKit.podspec; sourceTree = "<group>"; tabWidth = 2; };
-		65F71ECDA116CFFED5AC2704660EE7FD /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ReplaceMe.m; path = MaryBanCategoryKit/Classes/ReplaceMe.m; sourceTree = "<group>"; };
+		689579545AADDD139706245382B7BC4A /* MaryBanCategoryKit-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MaryBanCategoryKit-dummy.m"; sourceTree = "<group>"; };
+		6F5CC1BA1FD9E783AD0B0C04AE94F81F /* NSArray+Log.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "NSArray+Log.m"; sourceTree = "<group>"; };
+		7560AE4F5CAFA818AB831F822122CCDB /* UIButton+Extension.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIButton+Extension.m"; sourceTree = "<group>"; };
+		75C1CB3924ED671B05A9CC85E7AD998F /* MaryBanCategoryKit.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = MaryBanCategoryKit.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		79449DDDB9C9FC8DFF19863242FDCD2F /* Pods-MaryBanCategoryKit_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MaryBanCategoryKit_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		79528D0FF7DF3B355362B3142452531D /* Pods_MaryBanCategoryKit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MaryBanCategoryKit_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		79528D0FF7DF3B355362B3142452531D /* Pods_MaryBanCategoryKit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_MaryBanCategoryKit_Example.framework; path = "Pods-MaryBanCategoryKit_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7FBE62AA80195E4B09A71DF09AEBA64F /* Pods-MaryBanCategoryKit_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MaryBanCategoryKit_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		878087FFEE198E5AF7A1393B4670FEB2 /* Pods-MaryBanCategoryKit_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MaryBanCategoryKit_Tests-Info.plist"; sourceTree = "<group>"; };
 		8EAB81D0E5FBE2F33E1FD3FD12323738 /* Pods-MaryBanCategoryKit_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MaryBanCategoryKit_Example-dummy.m"; sourceTree = "<group>"; };
-		92BAC0341B8F300DD5B7A1CC6AFCA404 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
-		93848217C2D62F05ABA210EDDA6B39E4 /* MaryBanCategoryKit.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = MaryBanCategoryKit.modulemap; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		A53F63BBCA93BE65ACD2AFD0E6D881FB /* MaryBanCategoryKit-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MaryBanCategoryKit-umbrella.h"; sourceTree = "<group>"; };
-		A5BF1F5CEE0C6CEF4214F10118204BF4 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		965BCCBBE6885173CA2C9417DEDD699B /* UIView+FFFrame.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIView+FFFrame.h"; sourceTree = "<group>"; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		B04C64DDE0CF81640DD7897D72672044 /* UILabel+Extension.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UILabel+Extension.m"; sourceTree = "<group>"; };
 		B3A9AD5C939B325CF11E498C244F7A54 /* Pods-MaryBanCategoryKit_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MaryBanCategoryKit_Tests-dummy.m"; sourceTree = "<group>"; };
+		B47D33C76AA8C8607A08085665ECDE6E /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		B6E3143D646257C28089C4F570A55A71 /* UIColor+Hex.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIColor+Hex.m"; sourceTree = "<group>"; };
 		B7C7963B083F9C7B69472C07DF5859E3 /* Pods-MaryBanCategoryKit_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MaryBanCategoryKit_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		C006AD48A0AC8DA9FEAB2AE922C7F588 /* Pods-MaryBanCategoryKit_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-MaryBanCategoryKit_Tests-umbrella.h"; sourceTree = "<group>"; };
 		CB4607EFCA7C5F75397649E792E2AFCB /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		D4B3F6308514E2057BA4AF7B455E44BF /* MaryBanCategoryKit.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MaryBanCategoryKit.xcconfig; sourceTree = "<group>"; };
+		D845FB66BE9A07C841C5FCD36C9BF0C7 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		DE0A7C68C050161ADEA5D2626CA0A2AE /* UIColor+Hex.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIColor+Hex.h"; sourceTree = "<group>"; };
 		EA533F056FDFD995592B066244E253C5 /* Pods-MaryBanCategoryKit_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-MaryBanCategoryKit_Tests.modulemap"; sourceTree = "<group>"; };
+		F995388942111ADD6C691AA1B82F3ACB /* NSArray+Log.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NSArray+Log.h"; sourceTree = "<group>"; };
 		F9C6A0C890FCD7CE20ED1FAFD0CBA948 /* Pods-MaryBanCategoryKit_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MaryBanCategoryKit_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		FA78252B0A58411240D53E4BCD7CD83C /* Pods-MaryBanCategoryKit_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-MaryBanCategoryKit_Example-umbrella.h"; sourceTree = "<group>"; };
 		FC7B4FF8A90712CCB8549C0DF3466CAF /* Pods-MaryBanCategoryKit_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MaryBanCategoryKit_Example.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		18DAB7B38064AD8572F3D17FEE64EB25 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C0258E8D92F80C76DD1F061C005FDAE1 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		5E235225780FD99D24AE24E9B46CF19D /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -88,14 +116,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E7CDBDBC5DF09793760A780D13D7E464 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				AC65CB91B1BD595D7FFBB473219B4977 /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
@@ -106,20 +126,6 @@
 				C15DF18EA3748ABE04AD695B9AC4BD25 /* Pods-MaryBanCategoryKit_Tests */,
 			);
 			name = "Targets Support Files";
-			sourceTree = "<group>";
-		};
-		14E4FA82EF2CE774CFBC05CC4BB3FD49 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				93848217C2D62F05ABA210EDDA6B39E4 /* MaryBanCategoryKit.modulemap */,
-				525CF5C713825D7D1F3E126E01AD8987 /* MaryBanCategoryKit.xcconfig */,
-				2B928C08A8B8DDE9FF9D568C55BB3BD4 /* MaryBanCategoryKit-dummy.m */,
-				4AC86AECD0979C67F51420483FE14573 /* MaryBanCategoryKit-Info.plist */,
-				238EA0E761ADD31619BC73D28A5744F5 /* MaryBanCategoryKit-prefix.pch */,
-				A53F63BBCA93BE65ACD2AFD0E6D881FB /* MaryBanCategoryKit-umbrella.h */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/MaryBanCategoryKit";
 			sourceTree = "<group>";
 		};
 		310BF14A6469917B864DF6BA46522B62 /* Pods-MaryBanCategoryKit_Example */ = {
@@ -139,15 +145,14 @@
 			path = "Target Support Files/Pods-MaryBanCategoryKit_Example";
 			sourceTree = "<group>";
 		};
-		38C30F307C3F03F7B016928ACA4A985B /* MaryBanCategoryKit */ = {
+		450282B278B67F989EA358370A1F9324 /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				65F71ECDA116CFFED5AC2704660EE7FD /* ReplaceMe.m */,
-				CDAADE79F2377FB2F7717B54EC2C2E23 /* Pod */,
-				14E4FA82EF2CE774CFBC05CC4BB3FD49 /* Support Files */,
+				B47D33C76AA8C8607A08085665ECDE6E /* LICENSE */,
+				75C1CB3924ED671B05A9CC85E7AD998F /* MaryBanCategoryKit.podspec */,
+				D845FB66BE9A07C841C5FCD36C9BF0C7 /* README.md */,
 			);
-			name = MaryBanCategoryKit;
-			path = ../..;
+			name = Pod;
 			sourceTree = "<group>";
 		};
 		8847BC5156ED722E3F803B624EAA7687 /* Products */ = {
@@ -168,6 +173,24 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
+		B02474D6AB5EFBAF8C3F4886010E0B7F /* category */ = {
+			isa = PBXGroup;
+			children = (
+				F995388942111ADD6C691AA1B82F3ACB /* NSArray+Log.h */,
+				6F5CC1BA1FD9E783AD0B0C04AE94F81F /* NSArray+Log.m */,
+				0CD8644C6AF072B1DB797DB9E41B8C09 /* UIButton+Extension.h */,
+				7560AE4F5CAFA818AB831F822122CCDB /* UIButton+Extension.m */,
+				DE0A7C68C050161ADEA5D2626CA0A2AE /* UIColor+Hex.h */,
+				B6E3143D646257C28089C4F570A55A71 /* UIColor+Hex.m */,
+				128AECDDCFE5E5CF18977853088A72A1 /* UILabel+Extension.h */,
+				B04C64DDE0CF81640DD7897D72672044 /* UILabel+Extension.m */,
+				965BCCBBE6885173CA2C9417DEDD699B /* UIView+FFFrame.h */,
+				53FFC65777EEE38BCE8AFBF1F7723B31 /* UIView+FFFrame.m */,
+			);
+			name = category;
+			path = MaryBanCategoryKit/Classes/category;
+			sourceTree = "<group>";
+		};
 		C15DF18EA3748ABE04AD695B9AC4BD25 /* Pods-MaryBanCategoryKit_Tests */ = {
 			isa = PBXGroup;
 			children = (
@@ -184,25 +207,37 @@
 			path = "Target Support Files/Pods-MaryBanCategoryKit_Tests";
 			sourceTree = "<group>";
 		};
-		CDAADE79F2377FB2F7717B54EC2C2E23 /* Pod */ = {
+		C2E9BC23C184C774C523B347F60F0BD0 /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				92BAC0341B8F300DD5B7A1CC6AFCA404 /* LICENSE */,
-				61EA1972AA91670A55B518494AE318A3 /* MaryBanCategoryKit.podspec */,
-				A5BF1F5CEE0C6CEF4214F10118204BF4 /* README.md */,
+				D2CAE9D29B76436B8B7099C8C5497299 /* MaryBanCategoryKit */,
 			);
-			name = Pod;
+			name = "Development Pods";
 			sourceTree = "<group>";
 		};
 		CF1408CF629C7361332E53B88F7BD30C = {
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
-				E1F0111C312FDE836E624C43D2BFA59A /* Development Pods */,
+				C2E9BC23C184C774C523B347F60F0BD0 /* Development Pods */,
 				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
 				8847BC5156ED722E3F803B624EAA7687 /* Products */,
 				12342DD9DCCA5529F6205FDA99B62E47 /* Targets Support Files */,
 			);
+			sourceTree = "<group>";
+		};
+		D0FF73149451FA6C390D0E4152D0861A /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				2D5F992083610C92B124F8B8C4BA26A7 /* MaryBanCategoryKit.modulemap */,
+				D4B3F6308514E2057BA4AF7B455E44BF /* MaryBanCategoryKit.xcconfig */,
+				689579545AADDD139706245382B7BC4A /* MaryBanCategoryKit-dummy.m */,
+				164357DBBEF80EA7EEB14776A7D93B48 /* MaryBanCategoryKit-Info.plist */,
+				45C164037D8841401267758893E50C51 /* MaryBanCategoryKit-prefix.pch */,
+				08DFD17727D38DDCB081A4538F043D62 /* MaryBanCategoryKit-umbrella.h */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/MaryBanCategoryKit";
 			sourceTree = "<group>";
 		};
 		D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */ = {
@@ -213,17 +248,34 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		E1F0111C312FDE836E624C43D2BFA59A /* Development Pods */ = {
+		D2CAE9D29B76436B8B7099C8C5497299 /* MaryBanCategoryKit */ = {
 			isa = PBXGroup;
 			children = (
-				38C30F307C3F03F7B016928ACA4A985B /* MaryBanCategoryKit */,
+				4FCA6560A97307FD0FF044059FE77893 /* ReplaceMe.m */,
+				B02474D6AB5EFBAF8C3F4886010E0B7F /* category */,
+				450282B278B67F989EA358370A1F9324 /* Pod */,
+				D0FF73149451FA6C390D0E4152D0861A /* Support Files */,
 			);
-			name = "Development Pods";
+			name = MaryBanCategoryKit;
+			path = ../..;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
+		26360E4A4E3BEC84E7165373E9DDAA1A /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E23CF738565E2E8257BC04521DF3DC49 /* MaryBanCategoryKit-umbrella.h in Headers */,
+				1F23A9376F4A09BC2C610B34D4EE98CD /* NSArray+Log.h in Headers */,
+				C7EE248EF93C129ECF3052D5A6B58D8C /* UIButton+Extension.h in Headers */,
+				D25B74B9CC3053A998DC630E091F4A68 /* UIColor+Hex.h in Headers */,
+				37AB24A363672F4D898116D4EDDD6BA5 /* UILabel+Extension.h in Headers */,
+				5A2CAD6D2E6596EF50C44CC5F5FF017A /* UIView+FFFrame.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		2D8614D4FE063F77605ECC1BB901C726 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
@@ -240,35 +292,9 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		8ECFC502CF0CDDC95141EBFB414F5291 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				E001AC101C27DB17D765794ACCAF7E0B /* MaryBanCategoryKit-umbrella.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		1C5E4063A75B7178CEF02A0FF1E63E2E /* MaryBanCategoryKit */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = AB362B4924C1B4BF33D42F2D40D93C58 /* Build configuration list for PBXNativeTarget "MaryBanCategoryKit" */;
-			buildPhases = (
-				8ECFC502CF0CDDC95141EBFB414F5291 /* Headers */,
-				8A21380123155CA9E32B086D9DFCCF67 /* Sources */,
-				E7CDBDBC5DF09793760A780D13D7E464 /* Frameworks */,
-				854DEBFA44413760F60E24B9C00739AC /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = MaryBanCategoryKit;
-			productName = MaryBanCategoryKit;
-			productReference = 29E22A9BB12D5401C58D32DC30BB7BF4 /* MaryBanCategoryKit.framework */;
-			productType = "com.apple.product-type.framework";
-		};
 		3ECB85E458821F9FB601FD9311D2290F /* Pods-MaryBanCategoryKit_Tests */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = FD7118AE6C97B0A16A39666D05429003 /* Build configuration list for PBXNativeTarget "Pods-MaryBanCategoryKit_Tests" */;
@@ -286,6 +312,24 @@
 			name = "Pods-MaryBanCategoryKit_Tests";
 			productName = "Pods-MaryBanCategoryKit_Tests";
 			productReference = 2763C2E54952E543AF1029450A03F42A /* Pods_MaryBanCategoryKit_Tests.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		4D023A9496ECA360994FE6E5A7F209C4 /* MaryBanCategoryKit */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 299D3BA5215F23243C7D8269B8434C73 /* Build configuration list for PBXNativeTarget "MaryBanCategoryKit" */;
+			buildPhases = (
+				26360E4A4E3BEC84E7165373E9DDAA1A /* Headers */,
+				443362126FCA563CEC6310902030EF55 /* Sources */,
+				18DAB7B38064AD8572F3D17FEE64EB25 /* Frameworks */,
+				AE82FEE57C9DC01A2BED496AD2A39B3E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MaryBanCategoryKit;
+			productName = MaryBanCategoryKit;
+			productReference = 29E22A9BB12D5401C58D32DC30BB7BF4 /* MaryBanCategoryKit.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		EA8F308E8FB7F4AEAB6184D2A098555D /* Pods-MaryBanCategoryKit_Example */ = {
@@ -328,7 +372,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				1C5E4063A75B7178CEF02A0FF1E63E2E /* MaryBanCategoryKit */,
+				4D023A9496ECA360994FE6E5A7F209C4 /* MaryBanCategoryKit */,
 				EA8F308E8FB7F4AEAB6184D2A098555D /* Pods-MaryBanCategoryKit_Example */,
 				3ECB85E458821F9FB601FD9311D2290F /* Pods-MaryBanCategoryKit_Tests */,
 			);
@@ -343,14 +387,14 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		854DEBFA44413760F60E24B9C00739AC /* Resources */ = {
+		9940A85BA21EE488BC05A67FC1218941 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		9940A85BA21EE488BC05A67FC1218941 /* Resources */ = {
+		AE82FEE57C9DC01A2BED496AD2A39B3E /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -368,20 +412,25 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		443362126FCA563CEC6310902030EF55 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C6AA3D0699D8717631A074F2A57E813F /* MaryBanCategoryKit-dummy.m in Sources */,
+				082D0AD88EA940B7486DAFF9F1559F9E /* NSArray+Log.m in Sources */,
+				EEB1B11EEACE5AAE41DB57EEEA598A1D /* ReplaceMe.m in Sources */,
+				0689D1D01AC641E6CF53D7B800CEDF14 /* UIButton+Extension.m in Sources */,
+				8C26DC6778A5F81F9082B5AAB22E28B0 /* UIColor+Hex.m in Sources */,
+				3D9AB1B78F9A3C2C56B4F31B6BDE3F4A /* UILabel+Extension.m in Sources */,
+				6C6A37B7B9DEEE3357454D56DA9FDFE5 /* UIView+FFFrame.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		49761C302D95915A90A4462431B29241 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				610832E95CB53CEAB98336201BFF62E8 /* Pods-MaryBanCategoryKit_Tests-dummy.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		8A21380123155CA9E32B086D9DFCCF67 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				6D4E291D830E8910AB4128050D69B56A /* MaryBanCategoryKit-dummy.m in Sources */,
-				805A3EBBB7BC08F56AFA93573B62FFFB /* ReplaceMe.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -397,7 +446,7 @@
 		DA5C78FE84FA38559F2FB98ECA339D3F /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = MaryBanCategoryKit;
-			target = 1C5E4063A75B7178CEF02A0FF1E63E2E /* MaryBanCategoryKit */;
+			target = 4D023A9496ECA360994FE6E5A7F209C4 /* MaryBanCategoryKit */;
 			targetProxy = 6F5FE5BDC5A65682F5E6CD66E893914B /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -456,7 +505,8 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 4.2;
 				SYMROOT = "${SRCROOT}/../build";
 			};
@@ -526,9 +576,9 @@
 			};
 			name = Debug;
 		};
-		4F0A550757B3F969CD0DFDEFEE741236 /* Release */ = {
+		8A7D8A7CC67BE91079D8C44C5C16427E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 525CF5C713825D7D1F3E126E01AD8987 /* MaryBanCategoryKit.xcconfig */;
+			baseConfigurationReference = D4B3F6308514E2057BA4AF7B455E44BF /* MaryBanCategoryKit.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -556,6 +606,36 @@
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Release;
+		};
+		98DBB5A9BB5168A62B97834400843256 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D4B3F6308514E2057BA4AF7B455E44BF /* MaryBanCategoryKit.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/MaryBanCategoryKit/MaryBanCategoryKit-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/MaryBanCategoryKit/MaryBanCategoryKit-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/MaryBanCategoryKit/MaryBanCategoryKit.modulemap";
+				PRODUCT_MODULE_NAME = MaryBanCategoryKit;
+				PRODUCT_NAME = MaryBanCategoryKit;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
 		};
 		A7351F2B8109E8F7CCEA7D913D9124C1 /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -658,36 +738,6 @@
 			};
 			name = Debug;
 		};
-		C5FEA029C6F5D059BB36747D89E5B668 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 525CF5C713825D7D1F3E126E01AD8987 /* MaryBanCategoryKit.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/MaryBanCategoryKit/MaryBanCategoryKit-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/MaryBanCategoryKit/MaryBanCategoryKit-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/MaryBanCategoryKit/MaryBanCategoryKit.modulemap";
-				PRODUCT_MODULE_NAME = MaryBanCategoryKit;
-				PRODUCT_NAME = MaryBanCategoryKit;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
 		DB973B3643DE07EDD04D34503B32425B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 1C19EEA5B30CDEF1792C2234DD58DD17 /* Pods-MaryBanCategoryKit_Example.debug.xcconfig */;
@@ -733,20 +783,20 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
+		299D3BA5215F23243C7D8269B8434C73 /* Build configuration list for PBXNativeTarget "MaryBanCategoryKit" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				98DBB5A9BB5168A62B97834400843256 /* Debug */,
+				8A7D8A7CC67BE91079D8C44C5C16427E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				421ECB1396280A8D83853C3DDBED1700 /* Debug */,
 				05DF210AC65EBB0E593AAF976B2C2177 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		AB362B4924C1B4BF33D42F2D40D93C58 /* Build configuration list for PBXNativeTarget "MaryBanCategoryKit" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				C5FEA029C6F5D059BB36747D89E5B668 /* Debug */,
-				4F0A550757B3F969CD0DFDEFEE741236 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
